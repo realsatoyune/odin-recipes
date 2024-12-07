@@ -1,0 +1,9 @@
+.recipestitles {
+    font-style: italic; font-size: 75px;
+}
+.listol, .listul {
+    font-size: 30px;
+}
+.ingr, .desc {
+    font-style: italic; font-size: 50px;
+}
